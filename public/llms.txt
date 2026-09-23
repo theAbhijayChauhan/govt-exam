@@ -1,0 +1,31 @@
+# GovtExam AI - Verified Indian Government Job Intelligence Radar
+> Authoritative, zero-cost, factual intelligence platform for Indian government recruitment notifications (SSC, Railways, UPSC, Banking, Defence, Police).
+
+## Overview
+GovtExam AI is designed for students seeking government jobs in India. Instead of forcing candidates to read 50-80 page official gazette PDFs, it provides a 10-second smart qualification matrix matching candidates by:
+- 10th (Matriculation) Board Percentage
+- 12th (Intermediate) Stream (PCM, PCB, Commerce, Arts) and Percentage
+- Graduation Degree (B.Tech, B.Sc, B.Com, B.A., BCA, MBBS, etc.)
+- Study Status: 1st/2nd/3rd Year, Final Year (Appearing), or Completed Graduate
+- Reservation Category Age Relaxations (General, OBC +3 yrs, SC/ST +5 yrs, PwD +10 yrs)
+
+## Live Verified Notifications Currently Active (Sep - Oct 2026)
+- Railway RRB NTPC Undergraduate (CEN 06/2026): 3,445 Posts (12th Pass, Last Date: 20 Oct 2026) - LIVE
+- Railway RRB NTPC Graduate (CEN 05/2026): 8,113 Posts (Any Bachelor's Degree, Last Date: 13 Oct 2026) - LIVE
+- SSC GD Constable 2026: 39,481 Posts (10th Pass, Last Date: 14 Oct 2026) - LIVE
+- Railway RRB Technician (CEN 02/2026): 14,298 Posts (10th+ITI, 12th PCM, Degree, Last Date: 16 Oct 2026) - LIVE
+- SBI Specialist Officer (SCO 2026): 1,511 Posts (Degree, Last Date: 04 Oct 2026) - CLOSING SOON
+- UPSC Engineering Services (ESE 2026): 232 Posts (Final Year B.Tech Eligible, Last Date: 08 Oct 2026) - CLOSING SOON
+- Indian Army Agniveer GD Rally 2026: 25,000 Posts (10th Pass with 45%, Last Date: 15 Oct 2026) - LIVE
+- Indian Navy Agniveer (SSR / MR 02/2026): 4,000 Posts (10th & 12th Pass, Last Date: 10 Oct 2026) - LIVE
+- Delhi Police Constable (Executive): 7,547 Posts (12th Pass, Last Date: 18 Oct 2026) - LIVE
+- NABARD Assistant Manager (Grade A 2026): 102 Posts (Degree, Last Date: 02 Oct 2026) - CLOSING SOON
+- India Post GDS 2026: 44,228 Posts (Registration closed on 19 September 2026; circle-wise merit lists ongoing) - CLOSED
+- SSC CGL 2026: 17,727 Posts (Registration closed, Tier-1 CBT ongoing) - CLOSED
+
+## Key Endpoints
+- Homepage (Live Notification Radar): /
+- Smart Eligibility Checker: /eligibility
+- Dynamic Sitemap: /sitemap.xml
+- LLM Knowledge Base: /llms.txt
+- Robots Config: /robots.txt
