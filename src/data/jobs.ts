@@ -450,7 +450,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "Assistant Manager (Grade A)",
     "applicationStartDate": "2026-09-08",
     "lastDate": "2026-10-02",
-    "status": "CLOSING_SOON",
+    "status": "CLOSED",
     "minQualification": "Graduate",
     "allowedDegrees": [
       "B.Sc (Agriculture / Forestry)",
@@ -487,7 +487,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://nabard.org/careers",
     "officialPdfUrl": "https://nabard.org/documents/GradeA_2026.pdf",
     "summary": "Prestigious development banking career. Very close deadline (02 October). Minimum 60% in degree required.",
-    "featured": false
+    "featured": false,
+    "closedNote": "Official registration for this post closed on 2 Oct 2026."
   },
   {
     "id": "post-gds-2026",
