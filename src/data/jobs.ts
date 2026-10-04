@@ -208,7 +208,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "Middle Management Grade Scale II & III",
     "applicationStartDate": "2026-09-14",
     "lastDate": "2026-10-04",
-    "status": "CLOSING_SOON",
+    "status": "CLOSED",
     "minQualification": "Graduate",
     "allowedDegrees": [
       "B.Tech / B.E. (Computer Science / IT)",
@@ -240,7 +240,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://sbi.co.in/careers",
     "officialPdfUrl": "https://sbi.co.in/documents/crpd-sco-2026.pdf",
     "summary": "High-paying banking officer posts in SBI Corporate Centre. Urgent registration window closing 04 October.",
-    "featured": true
+    "featured": true,
+    "closedNote": "Official registration for this post closed on 4 Oct 2026."
   },
   {
     "id": "upsc-ese-2026",
