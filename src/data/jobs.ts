@@ -256,7 +256,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "Group 'A' Gazetted (Level 10)",
     "applicationStartDate": "2026-09-18",
     "lastDate": "2026-10-08",
-    "status": "CLOSING_SOON",
+    "status": "CLOSED",
     "minQualification": "Graduate",
     "allowedDegrees": [
       "B.Tech / B.E. (All Engineering Streams)",
@@ -291,7 +291,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://upsconline.nic.in",
     "officialPdfUrl": "https://upsc.gov.in/notice/ESE_2026_Notice.pdf",
     "summary": "Top premier engineering civil service. Final year B.Tech students are eligible to apply directly for Preliminary Exam.",
-    "featured": true
+    "featured": true,
+    "closedNote": "Official registration for this post closed on 8 Oct 2026."
   },
   {
     "id": "army-agniveer-gd-2026",
