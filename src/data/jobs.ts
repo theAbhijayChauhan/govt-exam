@@ -353,7 +353,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "Agniveer Pay Scale",
     "applicationStartDate": "2026-09-12",
     "lastDate": "2026-10-10",
-    "status": "LIVE",
+    "status": "CLOSED",
     "minQualification": "10th",
     "allowed12thStreams": [
       "Science PCM",
@@ -388,7 +388,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://joinindiannavy.gov.in",
     "officialPdfUrl": "https://joinindiannavy.gov.in/notices/Agniveer_02_2026.pdf",
     "summary": "Join the Indian Navy as SSR (12th Science PCM) or MR Chef/Steward (10th Pass). Applications active until 10 October.",
-    "featured": false
+    "featured": false,
+    "closedNote": "Official registration for this post closed on 10 Oct 2026."
   },
   {
     "id": "delhi-police-constable-2026",
