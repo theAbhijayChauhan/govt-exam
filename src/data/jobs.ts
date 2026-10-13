@@ -109,7 +109,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "7th CPC Pay Level 5 & 6",
     "applicationStartDate": "2026-09-14",
     "lastDate": "2026-10-13",
-    "status": "LIVE",
+    "status": "CLOSED",
     "minQualification": "Graduate",
     "allowedDegrees": [
       "Any Recognized Bachelor's Degree"
@@ -148,7 +148,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://rrbapply.gov.in",
     "officialPdfUrl": "https://rrbcdg.gov.in/CEN_05_2026_NTPC_Graduate.pdf",
     "summary": "Official Indian Railways CEN 05/2026 for Station Masters and Goods Train Managers. Open for any graduate degree holder.",
-    "featured": true
+    "featured": true,
+    "closedNote": "Official registration for this post closed on 13 Oct 2026."
   },
   {
     "id": "rrb-technician-2026",
