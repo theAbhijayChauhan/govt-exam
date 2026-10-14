@@ -14,7 +14,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "7th CPC Pay Level 3",
     "applicationStartDate": "2026-09-05",
     "lastDate": "2026-10-14",
-    "status": "LIVE",
+    "status": "CLOSED",
     "minQualification": "10th",
     "minPercentage": 0,
     "finalYearEligible": false,
@@ -45,7 +45,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://ssc.gov.in",
     "officialPdfUrl": "https://ssc.gov.in/notice/SSC_GD_2026_Notice.pdf",
     "summary": "Massive live Central Armed Police recruitment. Class 10th pass candidates can apply for BSF, CISF, CRPF, and SSB across India.",
-    "featured": true
+    "featured": true,
+    "closedNote": "Official registration for this post closed on 14 Oct 2026."
   },
   {
     "id": "rrb-ntpc-undergraduate-2026",
