@@ -309,7 +309,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "Agniveer Pay Scale",
     "applicationStartDate": "2026-09-10",
     "lastDate": "2026-10-15",
-    "status": "LIVE",
+    "status": "CLOSED",
     "minQualification": "10th",
     "minPercentage": 45,
     "finalYearEligible": false,
@@ -340,7 +340,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://joinindianarmy.nic.in",
     "officialPdfUrl": "https://joinindianarmy.nic.in/Agniveer_GD_2026.pdf",
     "summary": "Serve in combat arms of the Indian Army. Requires Class 10th with minimum 45% marks in aggregate.",
-    "featured": false
+    "featured": false,
+    "closedNote": "Official registration for this post closed on 15 Oct 2026."
   },
   {
     "id": "indian-navy-agniveer-2026",
