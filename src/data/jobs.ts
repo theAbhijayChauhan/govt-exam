@@ -165,7 +165,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "7th CPC Pay Level 2 & 5",
     "applicationStartDate": "2026-09-18",
     "lastDate": "2026-10-16",
-    "status": "LIVE",
+    "status": "CLOSED",
     "minQualification": "10th",
     "allowed12thStreams": [
       "Science PCM",
@@ -195,7 +195,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://rrbapply.gov.in",
     "officialPdfUrl": "https://rrbcdg.gov.in/CEN_02_2026_Tech.pdf",
     "summary": "Indian Railways massive technician drive across mechanical, electrical, telecommunication, and signal wings. 10th+ITI, 12th PCM, and Degree eligible.",
-    "featured": true
+    "featured": true,
+    "closedNote": "Official registration for this post closed on 16 Oct 2026."
   },
   {
     "id": "sbi-so-recruitment-2026",
