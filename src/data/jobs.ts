@@ -408,7 +408,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "7th CPC Pay Level 3",
     "applicationStartDate": "2026-09-15",
     "lastDate": "2026-10-18",
-    "status": "LIVE",
+    "status": "CLOSED",
     "minQualification": "12th",
     "allowed12thStreams": [
       "Any"
@@ -442,7 +442,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://ssc.gov.in",
     "officialPdfUrl": "https://ssc.gov.in/notice/DP_Constable_2026.pdf",
     "summary": "Central Government police career in the national capital. 12th pass eligible from any stream.",
-    "featured": false
+    "featured": false,
+    "closedNote": "Official registration for this post closed on 18 Oct 2026."
   },
   {
     "id": "nabard-grade-a-2026",
