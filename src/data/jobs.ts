@@ -61,7 +61,7 @@ export const GOVT_JOBS: JobNotification[] = [
     "payLevel": "7th CPC Pay Level 2",
     "applicationStartDate": "2026-09-21",
     "lastDate": "2026-10-20",
-    "status": "LIVE",
+    "status": "CLOSED",
     "minQualification": "12th",
     "allowed12thStreams": [
       "Any"
@@ -95,7 +95,8 @@ export const GOVT_JOBS: JobNotification[] = [
     "officialApplyUrl": "https://rrbapply.gov.in",
     "officialPdfUrl": "https://rrbcdg.gov.in/CEN_06_2026_NTPC_UG.pdf",
     "summary": "Official Indian Railways Centralized Employment Notice 06/2026 for 12th pass applicants. 3,445 clerk and typist posts live right now.",
-    "featured": true
+    "featured": true,
+    "closedNote": "Official registration for this post closed on 20 Oct 2026."
   },
   {
     "id": "rrb-ntpc-graduate-2026",
